@@ -8,5 +8,5 @@ title: Contact
 
 ## Social
 
-1. [LinkedIn](https://github.com/varmashar)
-2. [Github](https://www.linkedin.com/in/varmasharanya/)
+1. [Github](https://github.com/varmashar)
+2. [LinkedIn](https://www.linkedin.com/in/varmasharanya/)
