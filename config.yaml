@@ -1,5 +1,5 @@
 title: Researcher
-baseURL: https://example.com
+baseURL: https://sharanyavarma.netlify.app/
 theme: hugo-researcher
 disableKinds:
   - taxonomy
