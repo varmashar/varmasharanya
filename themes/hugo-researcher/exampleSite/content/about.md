@@ -6,10 +6,16 @@ title = "About"
 
 {{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
 
-This is a Hugo based resume template. You can find the full source code on
+As an Urban planner driven by data analytics, I'm interested in the interface 
+between Urban planning and data science and how it can be used to make the right
+decisions about real problems. I am very fascinated by the fact that data 
+science can be used in all areas of the world. Always driven by passion and 
+creativity, I firmly believe that a well-integrated urban environment can help 
+empower our society. I am looking for opportunities to help develop new skills 
+while enhancing my existing skills. 
 [GitHub](https://github.com/ojroques/hugo-researcher).
 
-## Research Interest
+## Interest
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum
 ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio
