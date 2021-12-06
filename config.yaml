@@ -1,5 +1,5 @@
 title: Sharanya Varma
-baseURL: https://sharanyavarma.netlify.app/about/
+baseURL: https://sharanyavarma.netlify.app/
 theme: hugo-researcher
 disableKinds:
   - taxonomy
