@@ -6,6 +6,8 @@ title: About
 
 {{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
 
+Hi, I am Sharanya, a Grad student at UIUC and a proud cat-mom.
+
 As an Urban planner driven by data analytics, I'm interested in the interface 
 between Urban planning and data science and how it can be used to make the right
 decisions about real problems. I am very fascinated by the fact that data 
@@ -13,24 +15,37 @@ science can be used in all areas of the world. Always driven by passion and
 creativity, I firmly believe that a well-integrated urban environment can help
 empower our society. I am looking for opportunities to help develop new skills 
 while enhancing my existing skills. 
+
+My concentration is in Land-Use and Transportation planning with advanced GIS. 
+Being the university gold medalist during my undergraduate studies in
+Architecture from Bangalore university, my interest in transportation planning 
+began with my undergraduate project on Physical planning. The project involved  decentralization of bus routes to develop equitable and effective public 
+transportation systems while optimizing connectivity.
+
 [GitHub](https://github.com/varmashar).
 [LinkedIn](https://www.linkedin.com/in/varmasharanya/).
 
-## Research Interest
+## Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum
-ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio
-pharetra quis[^1]. Mauris id urna ante.
+-Spatial Data Science
 
-Fusce pharetra diam ac nisi aliquet, velegestas ex iaculis. Pellentesque
-laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit[^2]. Nunc
-ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+-Urban Planning
 
-## Publications
+-Transportation Planning
 
-In chronological order:
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+-Built environment and Architectural Design
+
+-Animals
+
+## Education
+
+Masters of Urban Planning: University of Illinois, Urbana-Champaign
+
+Aug 2021 - May 2023(Expected)
+
+Bachelors of Architecture - Banglore University
+
+Aug 2015 - Sept 2020
 
 ## Typography
 
