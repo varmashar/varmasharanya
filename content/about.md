@@ -14,6 +14,7 @@ creativity, I firmly believe that a well-integrated urban environment can help
 empower our society. I am looking for opportunities to help develop new skills 
 while enhancing my existing skills. 
 [GitHub](https://github.com/varmashar).
+[LinkedIn](https://www.linkedin.com/in/varmasharanya/).
 
 ## Research Interest
 
